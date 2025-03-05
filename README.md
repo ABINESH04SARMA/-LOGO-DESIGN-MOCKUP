@@ -13,7 +13,7 @@
 *MENTOR NAME*: NEELA SANTHOSH
 
 # ENTER DESCRIPTON OF TASK PERFORMED NOT LESS THAN 500 WORDS
-The image showcases a logo design mockup displayed on four iPhone 13 Mini screens. Each screen represents a different logo design, with distinct typography, color schemes, and visual elements tailored to different industries. The fourth screen contains a simple "Thank You" message. The designs are visually appealing and structured in a professional way, suitable for branding various businesses
+A logo design mockup displayed on four iPhone 13 Mini screens. Each screen represents a different logo design, with distinct typography, color schemes, and visual elements tailored to different industries. The fourth screen contains a simple "Thank You" message. The designs are visually appealing and structured in a professional way, suitable for branding various businesses
 
 # OUTPUT OF THE TASK
 
